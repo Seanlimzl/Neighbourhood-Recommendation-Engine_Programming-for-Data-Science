@@ -1,0 +1,5 @@
+pandas
+rtree
+shapely
+pyogrio
+geopandas

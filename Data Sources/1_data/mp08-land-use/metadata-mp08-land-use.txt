@@ -1,0 +1,34 @@
+# Metadata for MP08 Land Use
+---
+Identifier: '7a2d6e50-a430-4d02-8c5b-1eaabb744aa7'
+Name: 'mp08-land-use'
+Title: 'MP08 Land Use'
+Description: 'Indicative polygon of land use zoning boundary'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Master Plan 2008 Land Use Zoning'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'Urban Redevelopment Authority'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2017-06-14T08:09:33.881988'
+Resources:
+  -
+    Identifier: '7536d578-31dc-418b-9326-9dac41f19287'
+    Title: 'MP08 Land Use (KML)'
+    Url: 'https://geo.data.gov.sg/g-mp08-land-use-pl/2012/06/13/kml/g-mp08-land-use-pl.zip'
+    Format: 'KML'
+    Last Updated: '2012-06-12T16:00:00'
+  -
+    Identifier: '9a0a0447-55fa-4b48-99ac-a63824f71dc7'
+    Title: 'MP08 Land Use (SHP)'
+    Url: 'https://geo.data.gov.sg/g-mp08-land-use-pl/2012/06/13/shp/g-mp08-land-use-pl.zip'
+    Format: 'SHP'
+    Last Updated: '2012-06-12T16:00:00'

@@ -1,0 +1,18 @@
+Total Feature Count : 120
+Downloaded Feature Count : 120
+Deleted Feature Count : 0
+
+
+# Metadata for community clubs
+---
+Title: 'community clubs'
+Description: 'location ofcommunity clubs'
+Topics:
+  - 'Environment'
+
+Publisher:
+  Name: 'National Environment Agency'
+Sources:
+  - 'National Environment Agency'
+Source Url: 'http://www.onemap.sg/API/Help/'
+License: 'https://data.gov.sg/open-data-licence'

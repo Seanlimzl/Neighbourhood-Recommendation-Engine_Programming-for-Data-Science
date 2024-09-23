@@ -1,0 +1,36 @@
+# Metadata for MP14 SDCP PW PLAN - Nature Boundary
+---
+Identifier: 'ee644c84-7619-4263-b435-e7c55cd5a61f'
+Name: 'mp14-sdcp-pw-plan-nature-boundary'
+Title: 'MP14 SDCP PW PLAN - Nature Boundary'
+Description: 'Indicative polygon of Nature Reserve and Nature Area boundary'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MP14 Nature Reserve'
+  - 'Master Plan 2014 Parks and Waterbodies'
+  - 'Nature Area'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'Urban Redevelopment Authority'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2017-06-14T09:05:11.432979'
+Resources:
+  -
+    Identifier: '300d75db-2aa1-407b-946f-4f271ee30bb7'
+    Title: 'MP14 SDCP PW PLAN - Nature Boundary (KML)'
+    Url: 'https://geo.data.gov.sg/g-mp14-pkwb-nat-bndry-pl/2017/01/18/kml/g-mp14-pkwb-nat-bndry-pl.zip'
+    Format: 'KML'
+    Last Updated: '2017-01-17T16:00:00'
+  -
+    Identifier: 'f86883be-df28-4ae3-9f6e-7d1aab5fe9d5'
+    Title: 'MP14 SDCP PW PLAN - Nature Boundary (SHP)'
+    Url: 'https://geo.data.gov.sg/g-mp14-pkwb-nat-bndry-pl/2017/01/18/shp/g-mp14-pkwb-nat-bndry-pl.zip'
+    Format: 'SHP'
+    Last Updated: '2017-01-17T16:00:00'

@@ -1,0 +1,38 @@
+# Metadata for LTA Bicycle Rack
+---
+Identifier: 'fb1642b8-e8c5-42c6-8767-8da80d0eed80'
+Name: 'lta-bicycle-rack'
+Title: 'LTA Bicycle Rack'
+Description: 'Data display the location, counts and type of bicycle parking at RTS
+  Stations'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'Bicycle Parking'
+  - 'Bicycle Rack'
+  - 'Bike Park'
+  - 'Bike Rack'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'Shaun Nah'
+    Department: 'LAND TRANSPORT AUTHORITY'
+    Email: 'Shaun_Nah@lta.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Last Updated: '2021-07-15T00:01:45.536658'
+Resources:
+  -
+    Identifier: 'cf561e8c-c7c7-43da-a196-81d11b353272'
+    Title: 'LTA Bicycle Rack (KML)'
+    Url: 'https://geo.data.gov.sg/bicyclerack/2021/07/12/kml/bicyclerack.kml'
+    Format: 'KML'
+    Last Updated: '2021-07-11T16:00:00'
+  -
+    Identifier: 'fe00a041-7686-43ad-82d2-29c97db40d06'
+    Title: 'LTA Bicycle Rack (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/bicyclerack/2021/07/12/geojson/bicyclerack.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2021-07-11T16:00:00'
