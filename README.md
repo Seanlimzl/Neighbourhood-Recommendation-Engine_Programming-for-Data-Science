@@ -3,7 +3,7 @@ Yale-NUS College | YSC2244 Programming for Data Science
 Elizabeth STEPTON, Joshua VARGAS, Sean LIM, NING Xinran
 
 ## About this project
-This project aims to help people find the best value neighbourhood in Singapore for them to search property, with the factors they care about.
+This project aimed to help people find the best value neighbourhood in Singapore via a Streamlit app that lets users enter their own unique priorities across neighborhood features like amenities, nature, access to transport, and travel times. I lead data collection especially for travel time data, testing and integrating options like Google Maps, MapBox, OpenStreetMap, Singapore's own national mapping service OneMap, with a focus on balancing accuracy and cost. I learnt the intricacies of mapping services (routing, distance, time), bulk API querying, and how to work with geographic data in Python, GeoPandas.
 
 ## Dependencies
 The Jupyter Notebook `Dependencies.ipynb` includes pip install commands for each of the dependencies. However, `fiona` requires a working installation of GDAL on the computer where the Python kernel is installed. GDAL is a translator library for geospatial data formats and can be downloaded [here](https://gdal.org).
